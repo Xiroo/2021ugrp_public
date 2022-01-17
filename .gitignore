@@ -15,7 +15,7 @@ make_database/sort/*
 !make_database/sort/*.py
 make_database/unsplash-images-crawler-master/*
 !make_database/unsplash-images-crawler-master/*.py
-make_database/unsplash-images-crawler-master/README.md
+!make_database/unsplash-images-crawler-master/README.md
 music/
 retrieval/*
 !retrieval/*.py
