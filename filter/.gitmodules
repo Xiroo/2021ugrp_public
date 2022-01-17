@@ -1,0 +1,3 @@
+[submodule "visual-sentiment-analysis"]
+	path = visual-sentiment-analysis
+	url = https://github.com/fabiocarrara/visual-sentiment-analysis.git
